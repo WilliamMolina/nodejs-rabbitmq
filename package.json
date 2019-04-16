@@ -1,0 +1,14 @@
+{
+  "name": "rabiitmq-nodejs",
+  "version": "1.0.0",
+  "description": "Using RabbitMQ from NodeJS",
+  "main": "enqueue.js",
+  "keywords": [
+    "rabbitmq"
+  ],
+  "author": "William Molina",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
